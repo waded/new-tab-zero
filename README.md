@@ -12,3 +12,4 @@ the address bar. Your cursor's already there.
   Until this is possible (Chrome >=75) new tabs are a neutral gray to keep things
   simple. Although gray's not ideal it won't blind you or shove you into darkness
   unexpectedly.
+- Localization of "New tab"
