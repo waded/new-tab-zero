@@ -1,0 +1,18 @@
+{
+    "manifest_version": 2,
+    "name": "Minimalist New Tab",
+    "description": "Reduces distraction when opening new tabs",    
+    "version": "0.0.1",
+
+    "author": "Wade Dorrell",
+    "chrome_url_overrides": {
+        "newtab": "minimalist-new-tab.html"
+    },
+    "icons": {
+        "16": "icon-16.png",
+        "48": "icon-48.png",
+        "128": "icon-128.png"
+    },
+    "minimum_chrome_version": "70",
+    "offline_enabled": true
+}
