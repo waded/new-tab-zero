@@ -7,7 +7,8 @@ the address bar. Your cursor's already there.
 
 ## Planned improvements
 
-- Final icons. The current icons are for testing purposes.
-- Detection of browser dark mode to choose a white vs. black background.
-  Until this is possible (Chrome >=75) new tabs are a neutral gray. Although
-  gray's not ideal it won't blind or shove you into darkness unexpectedly.
+- Options for sites to adapt to user's preference for "dark  mode" will allow
+  automatic choice of a dark vs. light background on the new tabs.
+  Until this is possible (Chrome >=75) new tabs are a neutral gray to keep things
+  simple. Although gray's not ideal it won't blind you or shove you into darkness
+  unexpectedly.
