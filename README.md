@@ -1,6 +1,6 @@
 # minimalist-new-tab
 
-This is a Chrome/Edge extension that removes all distractions on new tabs. No news, no weather, no favorite sites, no clocks, no photos. Nothing but space.
+This Chrome/Edge extension removes all distractions on new tabs. No news, no weather, no favorite sites, no photos. Nothing but blank.
 
 If you want to search, or go to recent/favorite sites, just type in the address bar.
 
