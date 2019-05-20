@@ -7,9 +7,9 @@ the address bar. Your cursor's already there.
 
 ## Planned improvements
 
-- Options for sites to adapt to user's preference for "dark  mode" will allow
-  automatic choice of a dark vs. light background on the new tabs.
-  Until this is possible (Chrome >=75) new tabs are a neutral gray to keep things
-  simple. Although gray's not ideal it won't blind you or shove you into darkness
-  unexpectedly.
+- Adapt to your preference for dark mode in the browser. Until Chrome & Edge support
+  detecting this (<https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-color-scheme>)
+  new tabs are gray instead of white/black.
+- Inverted icons for dark mode (waiting on
+  <https://bugs.chromium.org/p/chromium/issues/detail?id=893175>)
 - Localization of "New tab"
