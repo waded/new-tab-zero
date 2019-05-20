@@ -4,7 +4,7 @@
     "description": "Reduces distractions when opening new tabs. Visit https://github.com/waded/minimalist-new-tab to give feedback. ",    
     "version": "1.0.0",
 
-    "author": "Wade Dorrell",
+    "author": "Rational Agents LC",
     "chrome_url_overrides": {
         "newtab": "minimalist-new-tab.html"
     },
