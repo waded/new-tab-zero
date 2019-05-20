@@ -5,6 +5,8 @@ A Chrome & Edge extension that removes distractions on new tabs.
 If you want to search, or go to a recent or favorite sites, just type in
 the address bar. Your cursor's already there.
 
+Visit https://github.com/waded/minimalist-new-tab to give feedback.
+
 ## Planned improvements
 
 - Adapt to your preference for dark mode in the browser. Until Chrome & Edge support
