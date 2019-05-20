@@ -3,7 +3,7 @@
     "name": "Minimalist New Tab",
     "version": "1.0.4",
 
-    "description": "This extension removes all distractions on new tabs. No weather, no clocks, no news, no favorite site pins, no nothing.",
+    "description": "This is a Chrome/Edge extension that removes all distractions on new tabs. No news, no weather, no favorite sites, no clocks, no photos. Nothing but space.",
     "icons": {
         "128": "icon.png",
         "16": "icon-16.png",
