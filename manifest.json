@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "Minimalist New Tab",
-    "description": "Reduces distraction when opening new tabs",    
+    "description": "Reduces distractions when opening new tabs. Visit https://github.com/waded/minimalist-new-tab to give feedback. ",    
     "version": "1.0.0",
 
     "author": "Wade Dorrell",
