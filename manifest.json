@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
-    "name": "Minimalist New Tab",
-    "version": "1.0.4",
+    "name": "New Tab Zero",
+    "version": "1.0.5",
 
     "description": "This extension removes all distractions on new tabs. No news, no weather, no favorite sites, no photos. Nothing but blank.",
     "icons": {
@@ -12,9 +12,9 @@
 
     "author": "Rational Agents LC",
     "chrome_url_overrides": {
-        "newtab": "minimalist-new-tab.html"
+        "newtab": "new-tab-zero.html"
     },
     "minimum_chrome_version": "70",
     "offline_enabled": true,
-    "short_name": "Minimalist New Tab"    
+    "short_name": "New Tab Zero"    
 }

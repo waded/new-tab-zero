@@ -1,10 +1,10 @@
-# minimalist-new-tab
+# new-tab-zero
 
 This Chrome/Edge extension removes all distractions on new tabs. No news, no weather, no favorite sites, no photos. Nothing but blank.
 
 If you want to search, or go to recent/favorite sites, just type in the address bar.
 
-Please give feedback at <https://github.com/waded/minimalist-new-tab>.
+Please give feedback at <https://github.com/waded/new-tab-zero>.
 
 ## Published versions
 
