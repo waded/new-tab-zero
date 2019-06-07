@@ -3,7 +3,7 @@
     "name": "New Tab Zero",
     "version": "1.1.0",
 
-    "description": "This extension removes all distractions on new tabs. No news, no weather, no favorite sites, no photos. Nothing but blank.",
+    "description": "Removes all distractions on new tabs. No news, weather, photos, favorites, pins, or widgets. Nothing but blank.",
     "icons": {
         "128": "icon.png",
         "16": "icon-16.png",
