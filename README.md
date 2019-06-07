@@ -12,8 +12,5 @@ Please give feedback at <https://github.com/waded/new-tab-zero>.
 
 ## Planned improvements
 
-- Adjust to your preference for dark mode (waiting for [support
-  for detecting the mode](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-color-scheme), and until then
-  new tabs are gray instead of light/dark)
 - Invert icons in dark mode (waiting [for support in manifest or automatically](https://bugs.chromium.org/p/chromium/issues/detail?id=893175), rather than adding a preference specific to this extension)
 - Localization of "New tab"
